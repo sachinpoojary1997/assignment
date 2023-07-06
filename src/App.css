@@ -1,0 +1,9 @@
+.App{
+  background: linear-gradient(90deg,#4286f4,#373b44);
+  
+}
+h1{
+  text-align: center;
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94/var(--tw-text-opacity));
+}
